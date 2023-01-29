@@ -75,3 +75,31 @@ Trust Wallet team will reject projects that are deemed as scam or fraudulent aft
 Trust Wallet team reserves the right to change the terms of asset submissions at any time due to changing market conditions, risk of fraud, or any other factors we deem relevant.
 
 Additionally, spam-like behavior, including but not limited to mass distribution of tokens to random addresses will result in the asset being flagged as spam and possible removal from the repository.
+    "name": "Ethereum", 
+     "website": "https://ethereum.org/", 
+     "description": "Open source platform to write and distribute decentralized applications.", 
+     "explorer": "https://etherscan.io/", 
+     "research": "https://research.binance.com/en/projects/ethereum", 
+     "symbol": "ETH", 
+     "type": "coin", 
+     "decimals": 18, 
+     "status": "active", 
+     "links": [ 
+         { 
+             "name": "github", 
+             "url": "https://github.com/ethereum" 
+         }, 
+         { 
+             "name": "twitter", 
+             "url": "https://twitter.com/ethereum" 
+         }, 
+         { 
+             "name": "reddit", 
+             "url": "https://reddit.com/r/ethereum" 
+         }, 
+         { 
+             "name": "whitepaper", 
+             "url": "https://github.com/ethereum/wiki/wiki/White-Paper" 
+         } 
+     ] 
+ }
